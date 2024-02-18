@@ -106,6 +106,7 @@ Then, push your site's content to your GitHub repository, then navigate to the r
         <img src="/assets/img/2024-02-17-welcome-to-jekyll/github-yellow-dot.jpg" width="500" height="300">
 </div>
 
+
 By clicking on this dot, you can see details about the build and deployment process. Once the dot turns green, your site has been successfully deployed and is now live. You can access your site at `https://<username>.github.io`<br><br><br>
 
 
