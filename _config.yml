@@ -22,6 +22,15 @@ social-email: # add your Email address
 # 댓글이랑 광고?
 # discus-identifier: # add your discus identifier
 
+# utterances
+comments:
+  provider: "utterances"
+  utterances:
+    repo: "min2023237/min2023237.github.io"
+    issue_term: "pathname"
+    theme: "github-light"
+
+
 # Tracker
 analytics: # Google Analytics
 
